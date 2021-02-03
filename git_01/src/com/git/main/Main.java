@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("Hello Git!");
 		System.out.println("Hello Servlet!");
 		System.out.println("Hello JSP!");
+		System.out.println("Hello Spring!");
 		
 	}
 }
