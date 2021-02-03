@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("Hello Jquery!");
 		System.out.println("Hello JavaScript!");
 		
+		System.out.println("Hello Oracle!");
+		
 		
 	}
 }
